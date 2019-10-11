@@ -10264,3 +10264,6 @@ xpush
     width: 28%;
   }
 }
+.section-content-desc p {
+	font-size: 17px;
+}
